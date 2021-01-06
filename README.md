@@ -1,6 +1,6 @@
 <h1>微處理機期末考懶人包</h1>
 
-<h3><a href="https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam-package-for-lazy-human/raw/main/懶人包/懶人包.zip"> [ 壓縮檔下載連結 ] </a></h3>
+<h3><a href="https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam-package-for-lazy-human/raw/main/懶人包/微處理機期末考懶人包.zip"> [ 壓縮檔下載連結 ] </a></h3>
 <h3><a href="https://www.youtube.com/playlist?list=PLy3zXB5cF7FNddqZnTlcHq3roLsJUeqo8"> [ 影片教學 ] </a></h3><br>
 
 <h2>考試範圍：</h2>
