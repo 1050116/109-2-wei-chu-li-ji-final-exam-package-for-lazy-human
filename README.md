@@ -1,7 +1,8 @@
 <h1>［微處理機期末考懶人包］</h1><br>
 
-建議解壓縮到資料夾<pre>C:\Test</pre>再執行<br>
-檔案連結：<br> https://github.com/iambjlu/109-wei-chu-li-ji-final-exam/raw/main/Test.zip
+建議解壓縮到 C:\Test 資料夾再執行<br>
+
+<h1><a href="https://github.com/iambjlu/109-wei-chu-li-ji-final-exam/raw/main/Test.zip">檔案連結</a></h1>
 
 
 考試規定：<br>
