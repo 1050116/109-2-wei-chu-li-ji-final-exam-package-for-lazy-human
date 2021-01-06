@@ -18,9 +18,9 @@ CH61
 考試期間禁用手機
 </pre><br>
 
-<h2>壓縮檔解壓縮後放置位置</h2>
+<h2>懶人包解壓縮後放置位置</h2>
 <pre>
-建議將壓縮檔解壓縮到 C:\Test 資料夾再執行
+建議將懶人包解壓縮到 C:\Test 資料夾再執行，以免出錯
 範例如下圖
 </pre>
 <img src="https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam-package-for-lazy-human/raw/main/懶人包/懶人包解壓縮後放置位置範例.jpg"></img><br>
