@@ -23,4 +23,4 @@ CH61
 建議將懶人包解壓縮到 C:\Test 資料夾再執行，以免出錯
 範例如下圖
 ```
-[](https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam-package-for-lazy-human/raw/main/懶人包/懶人包解壓縮後放置位置範例.jpg)
+![](https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam-package-for-lazy-human/raw/main/懶人包/懶人包解壓縮後放置位置範例.jpg)
