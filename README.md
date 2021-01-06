@@ -3,6 +3,14 @@
 <h3><a href="https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam/raw/main/懶人包/懶人包.zip"> [ 壓縮檔下載連結 ] </a></h3>
 <h3><a href="https://www.youtube.com/playlist?list=PLy3zXB5cF7FNddqZnTlcHq3roLsJUeqo8"> [ 影片教學 ] </a></h3><br>
 
+<h2>考試範圍：</h2>
+可參考<a href="https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam-package-for-lazy-human/tree/main/原始碼">原始碼</a><br>
+<pre>
+CH52L
+CH53L
+CH61
+</pre><br>
+
 <h2>考試規定：</h2>
 <pre>
 可帶筆電(考試時使用)
