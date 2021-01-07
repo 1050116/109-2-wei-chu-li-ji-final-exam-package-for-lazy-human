@@ -1,4 +1,4 @@
-<a href="https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam-package-for-lazy-human/blob/636958a64fec0592e75c347975904d50434e8166/README.md">以HTML語言查看這個頁面</a>
+<a href="https://github.com/iambjlu/109-2-wei-chu-li-ji-final-exam-package-for-lazy-human/blob/636958a64fec0592e75c347975904d50434e8166/README.md"><pre>[點擊此處以HTML語言查看這個頁面]</pre></a>
 
 # 微處理機期末考懶人包</h1>
 
